@@ -3,26 +3,24 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package calculadora;
 
 /**
  *
  * @author douglas.egidiojhgfjhg
  */
-
 public class Calculadora {
-	
-	//teste de gitHub
-    //novo teste
 
+    //teste de gitHub
+    //novo teste
+    //teste 4commit
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
-       principal p = new principal();
+
+        principal p = new principal();
         // TODO code application logic here
     }
-    
+
 }
